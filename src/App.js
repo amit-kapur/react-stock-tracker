@@ -19,7 +19,7 @@ function App() {
           <tbody>
             <StockRow ticker="aapl" />
             <StockRow ticker="goog" />
-            <StockRow ticker="mstf" />
+            <StockRow ticker="msft" />
             <StockRow ticker="tsla" />
           </tbody>
         </table>
